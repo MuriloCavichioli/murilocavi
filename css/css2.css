@@ -1,0 +1,518 @@
+body{background-color: rgb(63, 62, 58);}
+
+
+
+nav {background-color: rgb(53, 52, 50);
+    text-align: right; 
+    padding: 18px; 
+    position: fixed; 
+    top: 0px; 
+    left: 0px; 
+    right: 0px;} 
+
+nav a {
+        text-decoration: none; 
+    color: rgb(255, 255, 255); 
+    background-color: rgba(137, 30, 158, 0); 
+    border-radius: 50%; 
+    padding: 10px; 
+    font-size: 20px;}
+    
+
+
+
+
+       /*imagem navegador*/
+.menor {position: fixed;
+        border-radius: 50%;
+        width: 50px;
+        left: 20px;
+        top: 5px;}
+    
+       
+
+
+
+
+
+
+
+
+        /*IMAGEM Embalagens*/
+.bubg{position: static;
+      width: 1885px;
+      top: 59px;
+      left: 0px;}
+    
+
+.bubpp{position: relative;
+       width: 400px;
+       top: 2200px;
+       left: 1250px;}
+
+.pudim{width: 1300px;
+       position: relative;
+       bottom: 600px;
+       left:-200px;}
+
+.sotí{position: relative;
+      width: 700px;
+      top: 1500px;
+      left:-300px;}
+
+.petit{position: relative;
+       width: 700px;
+       top: 850px;
+       left: 50px;}
+
+       /*TEXTO Embalagens*/
+       .renata{color: white;
+        font-size: 40px;
+        line-height: 45px;
+        text-align: center;
+        font-family: EastmanRomanTrial-Bold;
+        position: absolute;
+        top: 1150px;
+        right:200px;
+        width: 700px;}
+      
+      .biscoito{color: white;
+          font-size: 40px;
+          line-height: 45px;
+          text-align: center;
+          font-family: EastmanRomanTrial-Bold;
+          position: absolute;
+          top: 1950px;
+          right: 950px;
+          width: 800px;}
+      
+      .suco{color: white;
+          font-size: 40px;
+          line-height: 45px;
+          text-align: center;
+          font-family: EastmanRomanTrial-Bold;
+          position: absolute;
+          top: 2600px;
+          right:200px;
+          width: 700px;}
+      
+      .bubble{color: white;
+          font-size: 40px;
+          line-height: 45px;
+          text-align: center;
+          font-family: EastmanRomanTrial-Bold;
+          position: absolute;
+          top: 3250px;
+          right: 950px;
+          width: 800px;}
+
+
+
+
+
+
+
+     
+      /*IMAGEM marcas*/
+.fundo{position: static;
+       width: 1885px;
+       top: 0px;
+       left: 0px;}
+
+.amac{position: relative;
+        width: 550px;
+      top: 1400px;
+      left: 0px;}
+
+.cazre{position: relative;
+        width: 550px;
+       top: 1300px;
+       left: 770px;}
+
+.adiar{position: relative;
+        width: 550px;
+       top: 1300px;
+       left: 0px;}
+
+.marcapessoal{position: relative;
+              width: 550px;
+              top: 3000px;
+              right: 550px;}
+
+.sri{position: relative;
+     width: 550px;
+     top: 2600px;
+     left: 200px;}
+
+.hat{position: relative;
+        width:550px;
+        top: 400px;
+        left: 1330px;}
+
+.jardinagem{width: 600px;
+        position: relative;
+        bottom: 200px;
+        right: 1110px;}
+
+
+
+         /*TEXTO Marcas*/
+.jardim{color: white;
+        font-size: 40px;
+        text-align: center;
+        line-height: 45px;
+        font-family: EastmanRomanTrial-Bold;
+        position: absolute;
+        top: 1050px;
+        right:200px;
+        width: 900px;}
+
+.tim{color: white;
+     font-size: 40px;
+     text-align: center;
+     line-height: 45px;
+        font-family: EastmanRomanTrial-Bold;
+         position: absolute;
+         top: 1710px;
+         right: 900px;
+         width: 900px;}
+
+        .adia{color: white;
+                font-size: 40px;
+                text-align: center;
+                line-height: 45px;
+                font-family: EastmanRomanTrial-Bold;
+                position: absolute;
+                top: 2200px;
+                right:200px;
+                width: 900px;}
+
+        .caz{color: white;
+                font-size: 40px;
+                text-align: center;
+                line-height: 45px;
+                font-family: EastmanRomanTrial-Bold;
+                position: absolute;
+                top: 2620px;
+                right:900px;
+                width: 900px;}
+
+        .dog{color: white;
+                font-size: 40px;
+                text-align: center;
+                line-height: 45px;
+                font-family: EastmanRomanTrial-Bold;
+                position: absolute;
+                top: 3100px;
+                right:200px;
+                width: 900px;}
+
+        .sport{color: white;
+                font-size: 40px;
+                text-align: center;
+                line-height: 45px;
+                font-family: EastmanRomanTrial-Bold;
+                position: absolute;
+                top: 3500px;
+                right:900px;
+                width: 900px;}
+
+        .pessoal{color: white;
+                font-size: 40px;
+                text-align: center;
+                line-height: 45px;
+                font-family: EastmanRomanTrial-Bold;
+                position: absolute;
+                top: 3900px;
+                right:200px;
+                width: 900px;}
+
+
+                
+                /*IMAGEM editorial*/
+                .case{position: relative;
+                
+                      top: 2150px;
+                      right: 1300px;}
+                
+                .livro{position: relative;
+                       
+                       top: 1700px;
+                       left: 770px;}
+                
+                .folder{position: relative;
+                       top: 1300px;
+                       left: 0px;}
+                
+               
+                
+                
+                
+                .panfleto{position: relative;
+                
+                        top: 800px;
+                        left: 1330px;}
+                
+                .revista{width: 600px;
+                        position: relative;
+                        top: 100px;
+                        right: 800px;}
+
+
+
+
+
+
+
+
+
+
+       /*IMAGEM audiovisual*/
+.vfundo{position: static;
+        width: 1885px;
+        top: 0px;
+        left: 0px;}
+
+.porta{position: relative;
+    top: 200px;
+    left: 500px;}
+
+.cre{position: relative;
+        top: 600px;
+        left: 500px;}
+
+.davo{position: relative;
+          top: 2100px;
+          right: 300px;}
+          
+
+
+            /*TEXTO audio*/
+.por{color: white;
+        font-size: 40px;
+        font-family: EastmanRomanTrial-Bold;
+        position: absolute;
+        top: 1670px;
+        right:450px;
+        width: 1000px;
+        text-align: center;
+        line-height: 45px;}
+
+        .crepu{color: white;
+                font-size: 40px;
+                font-family: EastmanRomanTrial-Bold;
+                position: absolute;
+                top: 2690px;
+                right:450px;
+                width: 1000px;
+                text-align: center;
+                line-height: 45px;}
+        
+        .avo{color: white;
+                        font-size: 40px;
+                        font-family: EastmanRomanTrial-Bold;
+                        position: absolute;
+                        top: 3550px;
+                        right:450px;
+                        width: 1000px;
+                        text-align: center;
+                        line-height: 45px;}
+
+
+
+
+
+
+
+
+
+
+        /*Textos*/
+@font-face {font-family: EastmanRomanTrial-Bold;
+            src: url(../fonts/EastmanRomanTrial-Bold.otf);}
+
+            
+h1{position: absolute;
+   top: 300px;
+   left: 540px;
+   color: rgb(255, 255, 255);
+   font-size: 120px;
+   font-family: EastmanRomanTrial-Bold;}
+
+h3{position: absolute;
+   top: 260px;
+   left: 700px;
+   color: rgb(255, 255, 255);
+   font-size: 120px;
+   font-family: EastmanRomanTrial-Bold;}
+
+
+
+
+            
+              
+
+                       
+                       
+                        /*Texto contatos*/
+        .contato{color: white;
+                font-size: 100px;
+                font-family: EastmanRomanTrial-Bold;
+                position: absolute;
+                top: 200px;
+                left: 450px;
+                width: 1000px;
+                text-align: center;
+                line-height: 90px;}
+
+        .murilocavi{color: white;
+                font-size: 30px;
+                position: absolute;
+                top: 590px;
+                left: 840px;}
+
+        .telefone{color: white;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                font-size: 30px;
+                position: absolute;
+                top: 690px;
+                left: 840px}
+
+                
+                
+                
+                
+                
+                /*icones insta e whats*/
+
+        .instagram{position: absolute;
+                   top: 600px;
+                   left: 760px;}
+                
+        .whatsapp{position: absolute;
+                  top: 700px;
+                  left: 760px;}
+
+
+
+
+                   /*Efeitos Embalagem*/
+                   .pudim{transition: all 1s ;cursor: pointer;}  
+                   .pudim:hover{transform: scale(1.1);} 
+                   
+                   .petit{transition: all 1s ;cursor: pointer;}  
+                   .petit:hover{transform: scale(1.1);}
+                   
+                   .sotí{transition: all 1s ;cursor: pointer;}  
+                   .sotí:hover{transform: scale(1.1);}  
+
+                   .bubpp{transition: all 1s ;cursor: pointer;}  
+                   .bubpp:hover{transform: scale(1.1);}
+                   
+                    /*Efeitos Embalagem*/
+                    .jardinagem{transition: all 1s ;cursor: pointer;}  
+                    .jardinagem:hover{transform: scale(1.1);} 
+                    
+                    .hat{transition: all 1s ;cursor: pointer;}  
+                    .hat:hover{transform: scale(1.1);}
+                    
+                    .adiar{transition: all 1s ;cursor: pointer;}  
+                    .adiar:hover{transform: scale(1.1);}  
+ 
+                    .cazre{transition: all 1s ;cursor: pointer;}  
+                    .cazre:hover{transform: scale(1.1);}
+                    
+                    .amac{transition: all 1s ;cursor: pointer;}  
+                    .amac:hover{transform: scale(1.1);}
+
+                    .sri{transition: all 1s ;cursor: pointer;}  
+                    .sri:hover{transform: scale(1.1);}
+                        
+                    .marcapessoal{transition: all 1s ;cursor: pointer;}  
+                    .marcapessoal:hover{transform: scale(1.1);}
+
+       
+
+
+
+
+        /*Rodapé embalagem*/
+footer {background-color: rgb(53, 52, 50); 
+        color: rgb(255, 255, 255);
+        position: relative;
+        padding: 30px;
+        margin-top: 1600px;
+        left: 0px;
+        right: 0px;
+        bottom: 0px;} 
+    
+footer h2{font-family: EastmanRomanTrial-Bold;
+          position: relative;
+          bottom: 20px;
+          font-size: 30px;
+          text-align: center;}
+              
+.insta {position: absolute;
+        top: 70px;
+        left: 955px;}
+        
+.whats {position: absolute;
+        top: 70px;
+        left: 900px;}  
+        
+       
+
+
+
+        /*Rodapé marca*/
+        .roda {background-color: rgb(53, 52, 50); 
+                color: rgb(255, 255, 255);
+                position: relative;
+                padding: 30px;
+                margin-top: 2300px;
+                left: 0px;
+                right: 0px;
+                bottom: 0px;} 
+            
+        .roda h2{font-family: EastmanRomanTrial-Bold;
+                  position: relative;
+                  bottom: 20px;
+                  font-size: 30px;
+                  text-align: center;}
+                      
+        .insta {position: absolute;
+                top: 70px;
+                left: 955px;}
+                
+        .whats {position: absolute;
+                top: 70px;
+                left: 900px;}
+
+                
+
+
+
+                
+         /*Rodapé audio*/
+         .roda1 {background-color: rgb(53, 52, 50); 
+                color: rgb(255, 255, 255);
+                position: relative;
+                padding: 30px;
+                margin-top: 1700px;
+                left: 0px;
+                right: 0px;
+                bottom: 0px;} 
+            
+        .roda1 h2{font-family: EastmanRomanTrial-Bold;
+                  position: relative;
+                  bottom: 20px;
+                  font-size: 30px;
+                  text-align: center;}
+                      
+        .insta {position: absolute;
+                top: 70px;
+                left: 955px;}
+                
+        .whats {position: absolute;
+                top: 70px;
+                left: 900px;}        

@@ -1,0 +1,55 @@
+body {background-image: url(../imagem/Background/Background.jpg);}
+
+nav {background-color: rgb(53, 52, 50);
+    text-align: right; 
+    padding: 18px; 
+    position: fixed; 
+    top: 0px; 
+    left: 0px; 
+    right: 0px;} 
+
+nav a {text-decoration: none; 
+    color: rgb(255, 255, 255); 
+    background-color: rgba(137, 30, 158, 0); 
+    border-radius: 50%; 
+    padding: 10px; 
+    font-size: 20px;}
+
+.menor {
+    position: fixed;
+    border-radius: 50%;
+    width: 50px;
+    left: 20px;
+    top: 5px;}
+
+.maior {position: relative;
+        left: 150px;
+        top: 110px;
+        width: 300px;
+        border-radius: 50%;
+        margin-bottom: 130px;}
+
+.mockup {position: absolute;
+         right: 200px;
+         bottom: 90px;}
+
+
+
+         @font-face {
+            font-family: EastmanRomanTrial-Bold;
+            src: url(../fonts/EastmanRomanTrial-Bold.otf);
+         }
+
+p {color: white;
+   font-size: 30px;
+   font-family:EastmanRomanTrial-Bold;
+   width: 650px;
+   line-height: 35px;
+   position: relative;
+   left: 150px;}
+
+
+     /*Efeitos*/
+     .mockup{transition: all 1s ;cursor: pointer;}  
+     .mockup:hover{transform: scale(1.1);}  
+
